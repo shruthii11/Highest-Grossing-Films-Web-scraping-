@@ -1,5 +1,4 @@
-## Highest Grossing Films Web scraping
-Certainly! Here's a README content template providing information about the provided code and its functionality:
+## Highest Grossing Films Webscraping
 
 ---
 
